@@ -15,10 +15,10 @@ export function Hero() {
     <section id="home" className="pt-28 pb-16 md:pt-36 md:pb-24">
       <div className="container-page grid gap-12 md:grid-cols-12 md:items-end md:gap-x-10">
         <div className="md:col-span-7">
-          <p className="inline-flex items-center gap-2.5 text-sm text-mist">
+          {/* <p className="inline-flex items-center gap-2.5 text-sm text-mist">
             <span className="size-1.5 rounded-full bg-signal" aria-hidden="true" />
             Eager to contribute as a SOC Analyst
-          </p>
+          </p> */}
 
           <h1 className="type-display mt-6 text-paper">
             {NAME_LINES.map((word, index) => (
