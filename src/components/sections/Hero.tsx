@@ -75,7 +75,7 @@ export function Hero() {
               src={profilePhoto}
               alt={`Portrait of ${profile.fullName}`}
               width={1000}
-              height={1500}
+              height={2000}
               fetchPriority="high"
               decoding="async"
               className="aspect-[5/6] w-full object-cover object-[50%_18%] md:aspect-[4/5]"
