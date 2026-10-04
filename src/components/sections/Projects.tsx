@@ -129,7 +129,7 @@ export function Projects() {
         <Reveal className="mb-12 max-w-2xl md:mb-16">
           <h2 className="type-h2 text-paper">What I&rsquo;ve built.</h2>
           <p className="type-lead mt-4 text-mist">
-            Hands-on security and software work from coursework and CTF-style group projects — penetration testing,
+            Hands-on security and software work from coursework and CTF-style group projects, penetration testing,
             threat modeling, and secure development.
           </p>
         </Reveal>
