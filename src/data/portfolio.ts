@@ -32,7 +32,7 @@ export const profile: Profile = {
   displayName: "Margareta Nadya Roselani Bramanjaya",
   positioning: "Cyber Security Student · Penetration Testing · Threat Modeling · Security Engineering",
   summary:
-    "Hands-on practice with offensive security techniques — network, web, and mobile penetration testing, including static and dynamic analysis with tools like JADX — built through coursework and CTF challenges. Complemented by exposure to Blue Team fundamentals such as log analysis, digital forensics, and incident investigation, and grounded in cross-team coordination experience from leading university organizations. Eager to contribute as a SOC Analyst.",
+    "Hands-on practice with offensive security techniques. Network, web, and mobile penetration testing, including static and dynamic analysis with tools like JADX. Built through coursework and CTF challenges. Complemented by exposure to Blue Team fundamentals such as log analysis, digital forensics, and incident investigation, and grounded in cross-team coordination experience from leading university organizations. Eager to contribute as a SOC Analyst.",
   university: "BINUS University",
   program: "Cyber Security",
   gpa: "3.51 / 4.0",
