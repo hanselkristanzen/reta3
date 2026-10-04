@@ -60,12 +60,12 @@ export function Navbar() {
     >
       <div className="container-page flex h-16 items-center justify-between">
         <a href="#home" className="press-feedback flex items-center gap-3 font-display text-base font-semibold text-paper">
-          <span
+          {/* <span
             className="grid size-8 place-items-center rounded-control bg-cobalt text-[0.8125rem] font-bold tracking-tight text-white"
             aria-hidden="true"
           >
             MN
-          </span>
+          </span> */}
           {profile.displayName}
         </a>
 
